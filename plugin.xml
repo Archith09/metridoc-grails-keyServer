@@ -1,0 +1,9 @@
+<plugin name='metridoc-key-server' version='0.1' grailsVersion='2.3 &gt; *'>
+  <author>Your name</author>
+  <title>Metridoc Key Server Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/metridoc-key-server</documentation>
+  <type>MetridocKeyServerGrailsPlugin</type>
+  <resources />
+</plugin>
